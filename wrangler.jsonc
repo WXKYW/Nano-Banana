@@ -1,0 +1,7 @@
+{
+  "name": "nano-banana",            // 这里填入日志里提示的期望名称
+  "compatibility_date": "2025-11-30", // 填入今天的日期
+  "assets": {
+    "directory": "."               // 代表当前目录就是网站根目录
+  }
+}
